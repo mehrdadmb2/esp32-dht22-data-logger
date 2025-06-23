@@ -39,7 +39,6 @@ esp32-dht22-data-logger/
 
 ## 📝 `README.md`
 
-````markdown
 # esp32-dht22-data-logger
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
